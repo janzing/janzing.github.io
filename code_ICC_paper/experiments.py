@@ -1,4 +1,4 @@
-# This is code for the experiments in the AISTATS paper
+# This is code for the experiments in the AISTATS 2024 paper
 # Quantifying Intrinsic Contribution via Structure-Preserving Interventions by
 # Janzing, Bloebaum, Mastakouri, Faller, Minorics, Budhathoki
 #
